@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Search-engine crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Sitemap
+Sitemap: https://finnegan.capital/sitemap.xml

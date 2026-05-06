@@ -1,0 +1,13 @@
+{
+  "name": "Finnegan Capital",
+  "short_name": "Finnegan",
+  "description": "Multi-family trustee and investment firm.",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "theme_color": "#0b1220",
+  "background_color": "#0b1220",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
